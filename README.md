@@ -82,7 +82,87 @@ Bike C has the longest delay time with 14.80
 
 Feedback from customers is 32% positive, 33% Neutral, 35% Negative.
 
+![%SENTIMENT](https://github.com/user-attachments/assets/56825ecd-3383-41fa-b6ca-455f104b7a63)
+
 With frequent delay over 20 minutes, route 1 has 288 orders delayed, route 2 has over 317 orders delayed, routes 3 has over 289 orders delayed, route 4 has over 287 orders delayed and route 5 has over 319 orders delayed. Making route 5 experience the highest delay frequency over 20 min.
 
+![ROUTES FREQUENT](https://github.com/user-attachments/assets/f21884b6-b21c-491e-b9b7-52477c58a67f)
+
 Customers complain the most when delays are between 16-25 minutes 
+
+![NEGAT](https://github.com/user-attachments/assets/49e5109d-6a76-4fff-b084-d96f371dbe12)
+
+
+## HERE IS THE PICTURE OF THE DASHBOARD
+
+![dashboard for swift dop](https://github.com/user-attachments/assets/ad4a25fc-84a9-48e1-8620-a066a2b70420)
+
+## FINDINGS AND RECOMMENDATION
+
+### Base on the Analysis I found out that
+
+-	45% of orders sent out in the month of September was very low
+  
+-	orders sent out in zone 1 during the month of September 2023 took the longest time to get delivered to the customers
+
+-	Zone 1&2 experienced more frequent delays in the month of September
+  
+-	Out of 99 drivers in swift drop express only 7 drivers (D68, D22, D38, D5, D60, D75, D98) tried delivering on time in the month of September with Driver 68 been the highest.
+  
+-	Bike C has the highest Average delay time while Van A has the lowest Average delay time. This implies that Bike C experienced more delay in the month of September.
+  
+-	the highest customer feedback was NEGATIVE with 37% which is very bad and is affecting the delivery experience for customers.
+
+-	 Route 2 & 5 experienced more delay in the month of September which might be due to traffic or persistent issues on the route
+  
+-	At 16-20 min customers tend to start complaining when they don’t get their orders. Which implies that there should be compensation for delay above 15 min 
+
+### Base on the Analysis I recommend that 
+
+-	Investigate traffic patterns in zone 1 & 3 and also assign faster vehicles or more experienced drivers to Zone 1&3
+  
+-	Introduce shift scheduling & extra support to help in zone 1,2&3
+  
+-	There should be limit delivery capacity per deriver
+  
+-	Other drivers should identify top drivers like (D68, D22, D38, D75, D98, D60, D5) and study their strategy.
+  
+-	Drivers who underperform should be retrain or replaced if worst come to worst.
+  
+-	Also, there should be individual targets and reward for high performing drivers in order to motivate others.
+
+-	Van A should be used for long or high delay routes (like Route 2 and 5)
+  
+-	Bike C should be limited for shorter Route and distance and there should me frequent maintenance for Bike C
+  
+-	There should be customer follow up immediately after delivery especially for those customers who left negative feedback.
+  
+-	 All drivers should be trained on customer Etiquette.
+  
+-	Customers should be notified and appealed to when there is a delay.
+  
+-	There should be customer expectation on delivery time
+  
+-	Compensate customers to build trust.
+
+  ![thank you](https://github.com/user-attachments/assets/2c9b1cb6-80d8-451a-a820-83990a7f180f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
