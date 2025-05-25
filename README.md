@@ -18,7 +18,7 @@ The goal of the project is to provide insight in the dash board of Swift Drop Ex
 -	 Data reporting
 
 ## DATA TRANSFORMATION/ CLEANING
-I cleaned and transformed the messy data n Microsoft EXCEL 
+I cleaned and transformed the messy data in Microsoft EXCEL 
 
 ## EXPLORATORY DATA ANALYSIS
 EDA involved exploring the operational dynamics of Swift Drop Express delivery services to answer key questions such as
@@ -95,7 +95,8 @@ Customers complain the most when delays are between 16-25 minutes
 
 ## HERE IS THE PICTURE OF THE DASHBOARD
 
-![dashboard for swift dop](https://github.com/user-attachments/assets/ad4a25fc-84a9-48e1-8620-a066a2b70420)
+![swift drop new dashboard](https://github.com/user-attachments/assets/13fa8585-97e5-49cf-a880-1883eb03c8a5)
+
 
 ## FINDINGS AND RECOMMENDATION
 
